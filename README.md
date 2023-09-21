@@ -9,7 +9,7 @@ La evaluación de las emociones a menudo se lleva a cabo mediante el análisis d
 
 ### Actividad de aprendizaje
 
-Se requiere construir un framework que permita procesar y caracterizar las señales fisiológicas para agruparlas en estados emocionales. Para ello, se trabajará con la base de datos DEAPdataset, la cual es un conjunto de datos para el análisis de emociones usando señales de EEG, fisiológicas y de video (ver figura 1)
+Se requiere construir un framework que permita procesar y caracterizar las señales fisiológicas para agruparlas en estados emocionales. Para ello, se trabajará con la base de datos DEAPdataset, la cual es un conjunto de datos para el análisis de emociones usando señales de EEG, fisiológicas y de video (ver figura 1).
 
 ![Figura 1. Ejemplo de la base de datos DEAP](https://github.com/DavidELP17/TS3_MiniProyecto1/assets/17619940/ce5004e5-296d-400a-b948-c6af9eca62fa)
 
